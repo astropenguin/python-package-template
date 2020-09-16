@@ -1,0 +1,10 @@
+demonstration package
+=====================
+
+Module contents
+---------------
+
+.. automodule:: demonstration
+   :members:
+   :undoc-members:
+   :show-inheritance:
