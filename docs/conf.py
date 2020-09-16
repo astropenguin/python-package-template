@@ -2,7 +2,7 @@
 project = "demonstration"
 copyright = "2020, Akio Taniguchi"
 author = "Akio Taniguchi"
-release = "0.1.0"
+release = "0.2.0"
 
 
 # General configuration
