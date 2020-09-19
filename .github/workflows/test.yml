@@ -28,8 +28,10 @@ jobs:
           poetry install
       - name: Lint by Flake8
         run: poetry run flake8 demonstration
+        run: poetry run flake8 docs tests
       - name: Format by Black
         run: poetry run black --check demonstration
+        run: poetry run black --check docs tests
       - name: Test by pytest
         run : poetry run pytest -v tests
       - name: Build docs
