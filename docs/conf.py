@@ -1,8 +1,6 @@
 # Project information
-project = "demonstration"
-copyright = "2020, Akio Taniguchi"
 author = "Akio Taniguchi"
-release = "0.2.0"
+copyright = "2020, Akio Taniguchi"
 
 
 # General configuration
