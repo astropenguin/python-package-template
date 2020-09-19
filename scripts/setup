@@ -1,5 +1,4 @@
-#!/bin/bash
-set -eu
+#!/bin/bash -eu
 
 
 # Install package dependencies with Poetry
